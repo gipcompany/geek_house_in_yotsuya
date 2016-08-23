@@ -10,7 +10,7 @@
 * Rubyコミッター
     * 7名 (本社、島根)
     * 2名 (支社、東京)
-    * まつもとさんは本社にいる
+    * まつもとさんは本社に在籍。
 
 ## Other Activities
 
@@ -21,6 +21,7 @@
 ## Announcement
 
 * [9月1日（木）夜、島根のIT企業が東京に大集結。GO島根！ITエンジニア転職フェア](http://www.shimane-itworks.jp/event/901)
+    * まつもとさんも来場予定。
 
 ## End
 
